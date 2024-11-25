@@ -1,0 +1,32 @@
+#email{
+    background-color: rgb(58, 53, 53);
+
+    height: 20px;
+    width: 200px;
+}
+#password{
+  
+   background-color: aqua;
+    height: 20px;
+    width: 200px;
+}
+#number{
+    background-color: rgb(0, 117, 250);
+    height: 20px;
+    width: 200px;
+}
+#submit{
+    background-color: rgb(0, 247, 255);
+    
+    height: 20px;
+    width: 200px;
+}
+#date{
+    background-color: rgb(238, 255, 0);
+    height: 20px;
+    width: 200px;
+}
+#emailname{
+   
+   color: rgb(0, 3, 168);
+}
